@@ -1,0 +1,19 @@
+h1{ color:#870096; font-size:25px;font-family:"Eczar"; text-align: center;}
+h3{ color:#df9aaa;font-size:20px;font-family:"Tektur";text-align: center;}
+
+h4{ color:#9ab3df;font-size:20px;font-family:"Righteous";text-align: center;}
+
+
+body {
+    background-color: red; 
+  }
+  
+  @media screen and (max-width: 400px) {
+    body { 
+      background-color: cyan; 
+    }
+    h1   {  font-family:"roboto"; font-size:60px}
+  } 
+  
+
+  
